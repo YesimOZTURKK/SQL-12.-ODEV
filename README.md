@@ -1,1 +1,2 @@
-# SQL-12.-ODEV
+# KODLUYORUZ
+[patikadev](https://app.patika.dev/)
